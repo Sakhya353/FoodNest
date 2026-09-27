@@ -1,0 +1,31 @@
+import React from 'react';
+import { Pressable, StyleSheet, Text } from 'react-native';
+import { colors, radius, spacing, typography } from '../constants/theme';
+
+export default function CategoryChip({ label, selected, onPress }) {
+  return (
+    <Pressable
+      onPress={onPress}
+      accessibilityRole="button"
+      accessibilityState={{ selected }}
+      style={[styles.chip, selected && styles.chipSelected]}
+    >
+      <Text style={[styles.label, selected && styles.labelSelected]}>{label}</Text>
+    </Pressable>
+  );
+}
+
+const styles = StyleSheet.create({
+  chip: {
+    paddingHorizontal: spacing.md,
+    paddingVertical: spacing.sm,
+    borderRadius: radius.pill,
+    backgroundColor: colors.surface,
+    borderWidth: 1,
+    borderColor: colors.border,
+    marginRight: spacing.sm,
+  },
+  chipSelected: { backgroundColor: colors.primary, borderColor: colors.primary },
+  label: { ...typography.caption, color: colors.text, fontWeight: '600' },
+  labelSelected: { color: colors.white },
+});

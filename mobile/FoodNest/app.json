@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "FoodNest",
+    "slug": "foodnest-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#E85D2A"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.foodnest.mobile",
+      "adaptiveIcon": {
+        "backgroundColor": "#E85D2A"
+      }
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.foodnest.mobile"
+    },
+    "extra": {
+      "eas": {}
+    }
+  }
+}

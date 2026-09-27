@@ -1,0 +1,148 @@
+[
+    {
+        "CategoryName": "Shampoo",
+        "name": "Dove",
+        "img": "https://images.app.goo.gl/TiNeQ8MZ4M1wqVJX9",
+        "options": [
+            {
+                "half": "130 ml",
+                "full": "220 ml"
+            }
+        ],
+        "description": "Daily Moisture Shampoo progressively nourishes hair, leaving it feeling healthier."
+    },
+    {
+        "CategoryName": "Shampoo",
+        "name": "Pantene",
+        "img": "https://images.app.goo.gl/qdHHWhcLEQyZG65C6",
+        "options": [
+            {
+                "half": "110 ml",
+                "full": "200 ml"
+            }
+        ],
+        "description":"Pantene *Hair Fall Control Shampoo strengthens your hair from root to tip."
+    },
+    {
+        "CategoryName": "Shampoo",
+        "name": "Head & Shoulders",
+        "img": "https://images.app.goo.gl/QKHTW8D3pKLtTsMX9",
+        "options": [
+            {
+                "half": "200 ml",
+                "full": "320 ml"
+            }
+        ],
+        "description": "Specially formulated to treat the causes of dandruff and relieve symptoms like itchy, dry scalp."
+    },
+    {
+        "CategoryName": "Shampoo",
+        "name": "Treseme",
+        "img": "https://images.app.goo.gl/JzhMMWVxwp1zRCG96",
+        "options": [
+            {
+                "half": "170 ml",
+                "full": "300 ml"
+            }
+        ],
+        "description": "Tresemmé Thick & Full Shampoo helps reinforce your hair strength and prevents hair fall due to breakage. "
+    },
+    {
+        "CategoryName": "Shampoo",
+        "name": "Loreal",
+        "img": "https://media.istockphoto.com/photos/veg-biryani-picture-id1363306527?b=1&k=20&m=1363306527&s=170667a&w=0&h=VCbro7CX8nq2kruynWOCO2GbMGCea2dDJy6O6ebCKD0=",
+        "options": [
+            {
+                "half": "150 ml",
+                "full": "260 ml"
+            }
+        ],
+        "description": "Shampoo helps fight against the five visible signs of damaged hair - Hair fall, dryness, roughness, dullness and split."
+    },
+    {
+        "CategoryName": "Shampoo",
+        "name": "Garnier Botanic Therapist",
+        "img": "https://www.shutterstock.com/shutterstock/photos/2204911383/display_1500/stock-photo-april-ukraine-city-kyiv-shampoo-botanical-therapy-from-the-company-garnier-on-a-colored-2204911383.jpg",
+        "options": [
+            {
+                "half": "120 ml",
+                "full": "220 ml"
+            }
+        ],
+        "description": "The Garnier shampoos are made without the use of artificial colourants and are perfect for regular use."
+    },
+    {
+        "CategoryName": "Chips",
+        "name": "Doritos",
+        "img": "https://www.shutterstock.com/search/doritos",
+        "options": [
+            {
+                "half": "120 g",
+                "full": "200 g"
+            }
+        ],
+        "description": ". Experience a burst of tanginess with hints of onion, garlic, tomato and spice merging together in a bold creamy, cool ranch blend."
+    },
+    {
+        "CategoryName": "Chips",
+        "name": "Lays",
+        "img": "https://www.shutterstock.com/search/lays-packet",
+        "options": [
+            {
+                "half": "150 g",
+                "full": "260 g"
+            }
+        ],
+        "description": "Lays is made with best-quality fresh potatoes, simply sliced and cooked in edible vegetable oils, and then seasoned with delicious flavours!"
+    },
+    {
+        "CategoryName": "Chips",
+        "name": "President's Choice",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51rYqmTJD9L._AC_UL600_SR600,600_.jpg",
+        "options": [
+            {
+                "half": "170 g",
+                "full": "300 g"
+            }
+        ],
+        "description": "These chips are made with Canadian-grown potatoes, perfectly seasoned with sea salt for a classic flavour."
+    },
+    {
+        "CategoryName": "Chips",
+        "name": "Kimo Lentil Chips",
+        "img": "https://i5.walmartimages.com/asr/171afe1d-bede-4fea-97a4-7c66e24c1b8c.a77b94bc51e21530006bd28b821a7a06.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+        "options": [
+            {
+                "half": "170 g",
+                "full": "250 g"
+            }
+        ],
+        "description": " Lentil chips has big bold taste and lots of crunch. It's crispy and have unique taste."
+    },
+    {
+        "CategoryName": "Choclate",
+        "name": "Ferrero Rocher",
+        "img": "https://media.istockphoto.com/photos/double-topping-pizza-on-the-wooden-desk-isolated-picture-id1074109872?k=20&m=1074109872&s=612x612&w=0&h=JoYwwTfU_mMBykXpRB_DmgeecfotutOIO9pV5_JObpk=",
+        "options": [
+            {
+                "regular": "50 g",
+                "medium": "80 g",
+                "large": "110 g"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Choclate",
+        "name": "Lindt Lindor",
+        "img": "https://media.istockphoto.com/photos/chinese-food-veg-pizza-picture-id1341905237?k=20&m=1341905237&s=612x612&w=0&h=Lbuza1Ig5cC1PwQhqTsq-Uac8hg1W-V0Wx4d4lqDeB0=",
+        "options": [
+            {
+                "regular": "50 g",
+                "medium": "80 g",
+                "large": "110 g"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    }
+]
