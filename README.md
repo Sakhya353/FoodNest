@@ -22,7 +22,7 @@ backend and database as-is — `client/` and `server/` are unchanged. See that f
 README for architecture, setup instructions, known backend limitations, and a security
 note about credentials found in `server/db.js` that should be rotated.
 
-## Author
+
 
 **Sakhya Sharma** · GitHub: [@Sakhya353](https://github.com/Sakhya353)
 
